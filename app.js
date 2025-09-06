@@ -7,9 +7,9 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
-
-const BASE_DIR_PLAYLISTS = "/home/mjuste/Music/Playlists/";
-const BASE_DIR = "/home/mjuste/Music/";
+// Directories for downloads fill in your desired paths here
+const BASE_DIR_PLAYLISTS = "";
+const BASE_DIR = "";
 
 if (!fs.existsSync(BASE_DIR)) {
   fs.mkdirSync(BASE_DIR, { recursive: true });
