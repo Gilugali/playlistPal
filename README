@@ -1,0 +1,41 @@
+🎬 PlaylistPal – Videos & Playlists
+
+"This is a youtube downloader videos and the part you've been wanting the downloading the playlists."
+
+Download YouTube videos or entire playlists straight to your computer – easy, fast, and fun! 🚀
+
+# 🛠 INSTALL PACKAGES
+    `npm install`
+
+▶️ RUN THE APP
+    `npm run dev`
+
+# ⚙️ CONFIGURE DOWNLOAD FOLDERS
+
+`"Edit this line to your desired directory"`
+
+# Open the script and edit these variables:
+
+`const BASE_DIR = "/home/mjuste/Music/"; // for single videos`
+`const BASE_DIR_PLAYLIST = "/home/mjuste/Music/"; // for playlists`
+
+Change them to wherever you want your videos and playlists to go.
+
+# 📥 DOWNLOAD VIDEOS OR PLAYLISTS
+
+`"Paste the link of your youtube vidoe or playlist."`
+
+# Run the app:
+
+ `npm run dev`
+
+# Paste the YouTube video or playlist URL when prompted.
+
+Watch the magic happen – videos will download right into your chosen folder! ✨
+
+
+Sit back, relax, and enjoy your downloaded videos and playlists! 🥳
+
+
+Made with ❤️ by **Juste**
+
